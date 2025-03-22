@@ -15,6 +15,14 @@ Used for displaying the branches in the repository.
 Used for creating a new branch.
 ## git branch -M main
 Used for renaming the branch from master to main.
+## git checkout <branch_name>
+Used for switching to the branch.
+## git checkout -b <branch_name>
+Used for creating a new branch and switching to it.
+## git branch -D <branch_name>
+Used for deleting the branch.
+## git push origin --delete branch1
+Used for deleting the branch from the remote repository.
 ## git push origin main
 Used for pushing the changes to the main branch.
 ## git push -u origin main
