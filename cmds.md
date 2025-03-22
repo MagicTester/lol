@@ -21,6 +21,8 @@ Used for switching to the branch.
 Used for creating a new branch and switching to it.
 ## git branch -D <branch_name>
 Used for deleting the branch.
+## git pull origin <branch_name>
+Used for pulling the changes from the remote repository.
 ## git push origin --delete branch1
 Used for deleting the branch from the remote repository.
 ## git push origin main
